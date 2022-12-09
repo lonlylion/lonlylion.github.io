@@ -3300,7 +3300,7 @@ h1.page-title + .tag-cloud-list {
   content: '';
 }
 #page-header.full_page {
-  height: 80px;
+  height: 240px;
   background-attachment: fixed;
 }
 #page-header.full_page #site-info {
